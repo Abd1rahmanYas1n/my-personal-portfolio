@@ -9,12 +9,10 @@ It showcases:
 - An "About Me" section
 - Responsive design elements (in progress)
 
+Built with
+- HTML
+- CSS
 
-
-- HTML5
-- CSS3
-- External Google Fonts (optional)
-- No JavaScript (yet!)
 
 
 

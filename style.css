@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .navbar ul {
     list-style: none;
     padding: 0;
@@ -47,16 +53,26 @@ body {
     text-align: center;
 }
 
-.button a {
-    margin: 30px;
-    padding: 100px;
-    text-decoration: none;
-    color: gold;
-    font-weight: 600;
-    transition: all 0.3s ease;   
+.button {
+  margin: 20px;
+  padding: 12px 24px;
+  background-color: transparent;
+  border: 2px solid gold;
+  color: gold;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  display: inline-block;
 }
 
-.button:hover::after{
-    color:#facc15;
-    text-shadow:0 0 5px rgba(250, 204, 21, 0.6) ;
+.button:hover {
+  background-color: #facc15;
+  color: #0f172a;
 }
+
+.buttons {
+  text-align: center;
+  margin-top: 40px;
+}
+

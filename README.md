@@ -7,7 +7,7 @@ It showcases:
 - A hero section introducing who I am
 - A section for my projects
 - An "About Me" section
-- Responsive design elements (in progress)
+
 
 Built with
 - HTML

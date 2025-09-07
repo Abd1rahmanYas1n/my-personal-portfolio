@@ -14,3 +14,13 @@
     font-weight: 600;
 }
 
+header {
+    color: royalblue;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #0f172a;
+  padding: 16px 24px;
+}

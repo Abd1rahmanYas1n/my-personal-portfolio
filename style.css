@@ -46,3 +46,17 @@ body {
     text-decoration: none;
     text-align: center;
 }
+
+.button a {
+    margin: 30px;
+    padding: 100px;
+    text-decoration: none;
+    color: gold;
+    font-weight: 600;
+    transition: all 0.3s ease;   
+}
+
+.button:hover::after{
+    color:#facc15;
+    text-shadow:0 0 5px rgba(250, 204, 21, 0.6) ;
+}

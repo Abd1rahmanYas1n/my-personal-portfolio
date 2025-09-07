@@ -9,7 +9,8 @@ It showcases:
 - An "About Me" section
 
 
-Built with
+
+Built using 
 - HTML
 - CSS
 

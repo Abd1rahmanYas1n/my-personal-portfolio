@@ -24,12 +24,11 @@
 .navbar {
   display: flex;
   justify-content: flex-end;
-  background-color: #0f172a;
   padding: 16px 24px;
 }
 
 body {
-   background-color: #0f172a;
+   background-image: url(https://static.vecteezy.com/system/resources/previews/008/167/404/non_2x/simply-soft-gradation-technology-background-free-vector.jpg);
 }
 
 .header {

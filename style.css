@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: serif;
 }
 
 .navbar ul {
@@ -12,6 +13,7 @@
     gap: 16px;
     justify-content: flex-end;
     width: 100%;
+    font-size: large;
 }
 
 .navbar li a {
@@ -62,6 +64,7 @@ body {
   border-radius: 8px;
   transition: all 0.3s ease;
   display: inline-block;
+  font-size: large;
 }
 
 .button:hover {
